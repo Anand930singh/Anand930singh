@@ -33,7 +33,7 @@ const anand = {
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://github.com/Anand930singh/Anand930singh/blob/main/icons8-twitter.svg" height="40em" align="center" alt="Follow Anand on LinkedIn" title="Follow Anand on LinkedIn"/>](https://www.linkedin.com/in/anand-kumar-singh-b46a3b229/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Anand on Twitter" title="Follow Anand on Twitter"/>](https://x.com/AnandKu01361058?t=YVW9QIyB6Syx4Vy3smqXwA&s=09)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Anand on Instagram" title="Follow Anand on Instagram"/>](https://instagram.com/anandsingh4729?igshid=OGQ5ZDc2ODk2ZA==)
+[<img src="https://img.icons8.com/color/48/linkedin.png" height="40em" align="center" alt="Follow Anand on LinkedIn" title="Follow Anand on LinkedIn"/>](https://www.linkedin.com/in/anand-kumar-singh-b46a3b229/)
+[<img src="https://img.icons8.com/color/48/twitterx.png" height="40em" align="center" alt="Follow Anand on Twitter" title="Follow Anand on Twitter"/>](https://x.com/AnandKu01361058?t=YVW9QIyB6Syx4Vy3smqXwA&s=09)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="30em" align="center" alt="Follow Anand on Instagram" title="Follow Anand on Instagram"/>](https://instagram.com/anandsingh4729?igshid=OGQ5ZDc2ODk2ZA==)
 
