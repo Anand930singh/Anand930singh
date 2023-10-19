@@ -16,6 +16,9 @@ const anand = {
         backEnd: {
             js: ["Node", "NestJS", "Express"],
         },
+        frontend: {
+            js: ["React"],
+        },
         devOps: ["Docker🐳"],
         databases: ["mongo", "MySql", "postgreSQL"]
     }
