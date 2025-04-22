@@ -18,6 +18,7 @@ const anand = {
         devOps: ["Docker🐳", "AWS", "Vercel", "Netlify"],
         databases: ["MongoDB", "PostgreSQL"]
     },
+    tools: ["Git", "VS Code", "Postman", "Figma"],
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```
@@ -65,3 +66,9 @@ You can reach me via the email in my GitHub profile. Follow my socials!
 - 🔬 **UrineVitals**: Urine strip analyzer with image processing + GeminiAPI + chatbot
 - 🏏 **CricketPulse**: Player score prediction using ML on 7,000+ matches
 - ✍️ **The BlogPenn**: Blogging platform with TTS, STT and rich features
+
+## 🎯 Goals as a Fresher Software Developer
+- 📚 Constantly learning new technologies and improving my problem-solving skills
+- 🤝 Seeking opportunities where I can contribute to impactful projects and grow under mentorship
+- 💡 Excited to explore full-stack development, system design, and developer tooling
+- 🌱 Open to internships, full-time roles, and collaborative tech initiatives
